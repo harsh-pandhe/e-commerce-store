@@ -82,10 +82,6 @@ Make sure you have **Node.js** and **npm** installed, and your **MongoDB** insta
    npm run dev
    ```
 
-## 📸 Screenshots
-
-> _Screenshots coming soon – stay tuned!_
-
 ## 🔒 Security Best Practices
 
 - **Never share** your real `.env` file publicly or commit it to version control.
